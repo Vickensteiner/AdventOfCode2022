@@ -1,4 +1,4 @@
-with open("day1input.txt") as infile:
+with open("Day 1/day1input.txt") as infile:
     highest_cals = 0
     current_cals = 0
     for line in infile.readlines():
@@ -13,7 +13,7 @@ with open("day1input.txt") as infile:
 
 #%%
 
-with open("day1input.txt") as infile:
+with open("Day 1/day1input.txt") as infile:
     highest_cals = [0, 0, 0]    # Rank 1, 2, 3 in cals
     current_cals = 0
     for line in infile.readlines():
