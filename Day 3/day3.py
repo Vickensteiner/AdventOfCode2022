@@ -46,3 +46,4 @@ with open("Day 3/day3input.txt") as infile:
                         sum_priorities = sum_priorities + 27
                     break
     print(sum_priorities)
+# End Part 2
